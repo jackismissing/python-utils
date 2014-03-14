@@ -1,5 +1,6 @@
 '''
 Converts a positive integer into a binary number
+Floats are parse as integers
 Usage : num = ToBin(your_number)
 '''
 class ToBin():
